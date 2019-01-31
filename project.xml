@@ -15,6 +15,7 @@
 
     <main name = "version" />
     <main name = "wuserver" />
+    <main name = "wuclient" />
 
     <class name = "common" />
 

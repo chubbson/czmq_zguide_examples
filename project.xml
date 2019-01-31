@@ -13,6 +13,8 @@
     <main name = "lpclient" />
     <main name = "lpserver" />
 
+    <main name = "version" />
+
     <class name = "common" />
 
 </project>
